@@ -1,7 +1,6 @@
 ### Olá! eu sou a Ingra 👋
 
 - 🔭 Desenvolvedora Full Stack -> React e Node.js
-- 🌱 Aprimorando os conhecimentos em UX/UI design
 
 #### Contatos:
 <div>
